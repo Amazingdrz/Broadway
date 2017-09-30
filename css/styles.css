@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: white;
   text-align: center;
   font-family: Helvetica
 }
@@ -15,4 +15,18 @@ h1 {
 .btn-nav{
   color: white;
   font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: gray;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: gray;
+}
+h4 {
+  font-size: 14px;
+  color: gray;
 }
